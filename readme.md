@@ -17,3 +17,6 @@ Repositório teste github
 - git remote add origin "link do respositório"
 - git branch -M main / master
 - git push -u origin main / master
+
+----- Clonar repositório do github -----
+- git clone "link do repositório" 

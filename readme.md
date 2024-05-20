@@ -12,3 +12,8 @@ repositório teste github
 - git log - exibe um log com todos os commits feitos até o momento
 - git dif (usar antes de adicionar/commitar) - mostrar quais os arquivos foram alterados 
 - get show ("d93ae96a79d01c4a634068a74707b0af8fb594e4" - exemplo) - para mostrar o que foi alterado/commitado
+
+---- Adicionar em um repositório no github ----- 
+- git remote add origin "link do respositório"
+- git branch -M main / master
+- git push -u origin main / master

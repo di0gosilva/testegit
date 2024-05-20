@@ -1,12 +1,12 @@
-repositório teste github
+Repositório teste github
 
------ versionamento -----
+----- Versionamento -----
 - git init
 - git add . (para adicionar todos os arquivos)
 - git commit -m "mensagem de alteração"
 
 
------ comandos úteis -----
+----- Comandos úteis -----
 - git checkout (nome do arquivo) para desfazer algum commit
 - git status - para saber o que precisa ser adicionado ou commitado
 - git log - exibe um log com todos os commits feitos até o momento

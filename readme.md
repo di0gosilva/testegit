@@ -1,5 +1,9 @@
 Repositório teste github
 
+----- Configuração user -----
+git config --global user.name "Fulano de Tal"
+git config --global user.email fulanodetal@exemplo.br
+
 ----- Versionamento -----
 - git init
 - git add . (para adicionar todos os arquivos)
